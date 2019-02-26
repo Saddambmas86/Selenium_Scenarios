@@ -1,0 +1,8 @@
+browser=chrome
+URL=https://www.facebook.com/
+Login_username_id=email
+Login_password_id=pass
+Login_clickbutton_id=u_0_2
+Login_firstname_id=u_0_n
+Login_lastname_id=u_0_p
+Login_Mobile_id=u_0_s
